@@ -7,7 +7,7 @@ public void thisIsANewMethod() {
 
 public void thisIsAnotherNewMethod() {
 	std::cout << "Bye World";
-	
+	bool nice = false;
 }
 
 int main (int argc, char *argv[]) 
