@@ -5,6 +5,9 @@ public void thisIsANewMethod() {
 	bool nice = true;
 }
 
+public void thisIsAnotherNewMethod() {
+	
+}
 
 int main (int argc, char *argv[]) 
 { 
