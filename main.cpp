@@ -6,6 +6,7 @@ public void thisIsANewMethod() {
 }
 
 public void thisIsAnotherNewMethod() {
+	std::cout << "Bye World";
 	
 }
 
