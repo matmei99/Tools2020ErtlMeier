@@ -1,6 +1,7 @@
 #include <iostream>
 public void thisIsANewMethod() {
 	std::cout<< "Hello Mr. Memelord";
+	std::cout<< "Wi rilly like yur memez!"
 	bool nice = true;
 }
 
