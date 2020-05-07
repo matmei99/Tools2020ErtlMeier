@@ -1,7 +1,7 @@
 #include <iostream>
 
 public void thisIsANewMethod() {
-	std::cout<< "Hello World";
+	std::cout<< "Hello Mr. Memelord";
 	bool nice = true;
 }
 
