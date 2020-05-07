@@ -1,7 +1,11 @@
 
 public void thisIsANewMethod() {
 
-	
+	bool nice = true;
+
+
+	return nice;
+
 }
 
 
